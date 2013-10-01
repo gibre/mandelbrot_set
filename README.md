@@ -1,4 +1,4 @@
-# Julia set generator
+# Mandelbrot set generator
 
 Draws a Mandelbrot set. The rendering is done with the SFML (version 2.1), here is the official site : http://www.sfml-dev.org/index.php.
 
